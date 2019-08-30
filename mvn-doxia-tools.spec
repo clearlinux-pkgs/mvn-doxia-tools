@@ -4,7 +4,7 @@
 #
 Name     : mvn-doxia-tools
 Version  : 3
-Release  : 1
+Release  : 2
 URL      : https://github.com/apache/maven-doxia-tools/archive/doxia-tools-3.tar.gz
 Source0  : https://github.com/apache/maven-doxia-tools/archive/doxia-tools-3.tar.gz
 Source1  : https://repo1.maven.org/maven2/org/apache/maven/doxia/doxia-tools/3/doxia-tools-3.pom
